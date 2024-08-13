@@ -8,5 +8,5 @@ To create your pack:
 3. Paste your repo link into [Githack](https://raw.githack.com)
 4. Copy the link from "Use this URL in production"
 5. Press "U" on the home screen of [Onion's Life](https://onions.life)
-6. Paste in your link
+6. Paste in your repo link with "/tree/main" at the end
 7. Profit
