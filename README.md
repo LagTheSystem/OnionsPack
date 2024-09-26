@@ -9,6 +9,6 @@ To create your pack:
   - Make sure the link does **NOT** include a /tree/ directory, this will make the pack not work for some strange GitHub reason I don't understand
 5. Paste the link into [Githack](https://raw.githack.com)
 6. Copy the link from "Use this URL in production"
-7. Press "U" on the home screen of [Onion's Life](https://onions.life)
+7. Press "U" on your keyboard on the home screen of [Onion's Life](https://onions.life)
 8. Paste in the GitHack link
 9. Profit
