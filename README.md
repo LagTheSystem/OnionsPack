@@ -5,7 +5,7 @@ This repo serves as a simple layout that you can use to start your resource pack
 To create your pack:
 1. Fork this repo
 2. Make your desired changes
-3. Go into the main folder of the repo and copy the link
+3. Copy the link to the main folder in this format: https://github.com/<username>/OnionsPack/main/OnionsPack
 3. Paste the link into [Githack](https://raw.githack.com)
 4. Copy the link from "Use this URL in production"
 5. Press "U" on the home screen of [Onion's Life](https://onions.life)
